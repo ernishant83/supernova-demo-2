@@ -1,12 +1,12 @@
 
 :root {
     --colorColorMycolor: #721edf;    
-    --colorColorColor2: #fefefe;    
-    --colorColorColor3: #fcfcfc;    
-    --colorColorColor4: #fbfbfb;    
-    --colorColorColor5: #fbfbfb;    
-    --colorBasePrimary: #3827e5;    
-    --colorBaseSecondary: #f2daf2;    
+    --colorColorColor2: #8c0f0f;    
+    --colorColorColor3: #ef863b;    
+    --colorColorColor4: #ae3333;    
+    --colorColorColor5: #f80606;    
+    --colorBasePrimary: #352aaa;    
+    --colorBaseSecondary: #e42ae9;    
     --colorColorPrimaryDefault: #0a4173;    
     --colorColorPrimaryHover: #093762;    
     --colorColorPrimaryDisabled: #c2d0dc;    
@@ -94,5 +94,5 @@
     --colorColorBaseNeutralLight90: #f5f5f5;    
     --colorColorBaseNeutralLight100: #ffffff;    
     --colorColorTestCiTrigger: #ffff00;    
-    --colorColorColor6: #ffffff;    
+    --colorColorColor6: #694545;    
 }
