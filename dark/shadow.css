@@ -1,0 +1,24 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-dark {
+  --wp-shadow-shadow-regular-sm: 0px 3px 10px 0px #0000000d, 0px 4px 6px 0px #0000000d, 0px 4px 6px 0px #0000000d;
+  --wp-shadow-shadow-regular-md: 0px 15px 30px 0px #0000001a, 0px 5px 10px 0px #0000000d, 0px 2px 4px 0px #0000000d;
+  --wp-shadow-shadow-regular-lg: 0px 15px 30px 0px #0000001a, 0px 10px 20px 0px #0000000d, 0px 3px 6px 0px #0000000d;
+  --wp-shadow-shadow-regular-xl: 0px 20px 40px 0px #0000001a, 0px 15px 30px 0px #0000000d, 0px 5px 10px 0px #0000000d;
+  --wp-shadow-shadow-subtle-sm: 0px 4px 5px 0px #0000000d, 0px 1px 3px 0px #0000000d, 0px 0px 3px 0px #0000000d;
+  --wp-shadow-shadow-subtle-md: 0px 6px 8px 0px #00000012, 0px 0px 4px 0px #0000000d, 0px 1px 2px 0px #0000000d;
+  --wp-shadow-shadow-subtle-lg: 0px 8px 20px 0px #00000014, 0px 4px 6px 0px #0000000f, 0px 1px 0px 0px #0000000d;
+  --wp-shadow-glow-primary: 0px 0px 0px 2px #1b1b6f33;
+  --wp-shadow-glow-muted: 0px 0px 0px 2px #e6e6e6;
+  --wp-shadow-focus-ring-subtle: 0px 0px 0px 4px #1b1b6f4d, 0px 0px 0px 2px #ffffff;
+  --wp-shadow-shadow-regular-themed-sm: 0px 3px 10px 0px #1b1b6f0d, 0px 4px 6px 0px #1b1b6f0d, 0px 4px 6px 0px #1b1b6f0d;
+  --wp-shadow-shadow-regular-themed-md: 0px 15px 30px 0px #1b1b6f1a, 0px 5px 10px 0px #1b1b6f0d, 0px 2px 4px 0px #1b1b6f0d;
+  --wp-shadow-shadow-regular-themed-lg: 0px 15px 30px 0px #1b1b6f1a, 0px 10px 20px 0px #1b1b6f0d, 0px 3px 6px 0px #1b1b6f0d;
+  --wp-shadow-shadow-regular-themed-xl: 0px 20px 40px 0px #1b1b6f1a, 0px 15px 30px 0px #1b1b6f0d, 0px 5px 10px 0px #1b1b6f0d;
+  --wp-shadow-shadow-subtle-themed-sm: 0px 4px 5px 0px #1b1b6f0d, 0px 1px 3px 0px #1b1b6f0d, 0px 0px 3px 0px #1b1b6f0d;
+  --wp-shadow-shadow-subtle-themed-md: 0px 6px 8px 0px #1b1b6f12, 0px 0px 4px 0px #1b1b6f0d, 0px 1px 2px 0px #1b1b6f0d;
+  --wp-shadow-shadow-subtle-themed-lg: 0px 8px 20px 0px #1b1b6f14, 0px 4px 6px 0px #1b1b6f0f, 0px 1px 0px 0px #1b1b6f0d;
+}

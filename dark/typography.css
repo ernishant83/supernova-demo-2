@@ -1,0 +1,62 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-dark {
+  --wp-typography-heading-heading-1: 600 60px/72px "Source Sans 3";
+  --wp-typography-heading-heading-2: 600 48px/60px "Source Sans 3";
+  --wp-typography-heading-heading-3: 600 40px/54px "Source Sans 3";
+  --wp-typography-heading-heading-4: 600 30px/38px "Source Sans 3";
+  --wp-typography-heading-heading-5: 600 24px/32px "Source Sans 3";
+  --wp-typography-headline-regular: 400 20px/30px "Source Sans 3";
+  --wp-typography-headline-medium: 500 20px/30px "Source Sans 3";
+  --wp-typography-headline-semibold: 600 20px/30px "Source Sans 3";
+  --wp-typography-body-large-regular: 400 18px/28px "Source Sans 3";
+  --wp-typography-body-large-medium: 500 18px/28px "Source Sans 3";
+  --wp-typography-body-large-semibold: 600 18px/28px "Source Sans 3";
+  --wp-typography-body-regular: 400 16px/24px "Source Sans 3";
+  --wp-typography-body-medium: 500 16px/24px "Source Sans 3";
+  --wp-typography-body-semibold: 600 16px/24px "Source Sans 3";
+  --wp-typography-footnote-light: 300 14px/20px "Source Sans 3";
+  --wp-typography-footnote-regular: 400 14px/20px "Source Sans 3";
+  --wp-typography-footnote-medium: 500 14px/20px "Source Sans 3";
+  --wp-typography-footnote-semibold: 600 14px/20px "Source Sans 3";
+  --wp-typography-caption-light: 300 13px/20px "Source Sans 3";
+  --wp-typography-caption-regular: 400 13px/20px "Source Sans 3";
+  --wp-typography-caption-medium: 500 13px/20px "Source Sans 3";
+  --wp-typography-caption-semibold: 600 13px/20px "Source Sans 3";
+  --wp-typography-small-regular: 400 12px/18px "Source Sans 3";
+  --wp-typography-small-medium: 500 12px/18px "Source Sans 3";
+  --wp-typography-small-semibold: 600 12px/18px "Source Sans 3";
+  --wp-typography-numeric-lg: 600 34px/34px "Source Sans 3";
+  --wp-typography-numeric-xl: 600 40px/40px "Source Sans 3";
+  --wp-typography-numeric-md: 600 28px/34px "Source Sans 3";
+  --wp-typography-mobile-heading-heading-1: 600 40px "Source Sans Pro";
+  --wp-typography-mobile-heading-heading-2: 600 30px "Source Sans Pro";
+  --wp-typography-mobile-heading-heading-3: 600 28px "Source Sans Pro";
+  --wp-typography-mobile-heading-heading-4: 600 24px "Source Sans Pro";
+  --wp-typography-mobile-headline-semibold: 600 20px/24px "Source Sans 3";
+  --wp-typography-mobile-headline-regular: 400 20px/24px "Source Sans 3";
+  --wp-typography-mobile-body-large-semibold: 600 16px/20px "Source Sans 3";
+  --wp-typography-mobile-body-large-medium: 500 16px/20px "Source Sans 3";
+  --wp-typography-mobile-body-large-regular: 400 16px/20px "Source Sans 3";
+  --wp-typography-mobile-body-semibold: 600 14px/18px "Source Sans 3";
+  --wp-typography-mobile-body-medium: 400 14px/18px "Source Sans 3";
+  --wp-typography-mobile-body-regular: 400 14px/18px "Source Sans 3";
+  --wp-typography-mobile-footnote: 400 12px/16px "Source Sans 3";
+  --wp-typography-mobile-headline-medium: 500 20px/24px "Source Sans 3";
+  --wp-typography-mobile-numeric-xxl: 600 60px/60px "Source Sans 3";
+  --wp-typography-mobile-numeric-xl: 600 32px/40px "Source Sans 3";
+  --wp-typography-mobile-numeric-lg: 600 26px/34px "Source Sans 3";
+  --wp-typography-mobile-numeric-md: 600 20px/34px "Source Sans 3";
+  --wp-typography-headline-bold: 700 20px/30px "Source Sans 3";
+  --wp-typography-body-large-bold: 700 18px/28px "Source Sans 3";
+  --wp-typography-body-bold: 700 16px/24px "Source Sans 3";
+  --wp-typography-footnote-bold: 700 14px/20px "Source Sans 3";
+  --wp-typography-small-bold: 700 12px/18px "Source Sans 3";
+  --wp-typography-caption-bold: 700 13px/20px "Source Sans 3";
+  --wp-typography-brand-heading-1: 600 60px/72px "Blinker";
+  --wp-typography-brand-heading-2: 600 48px/60px "Blinker";
+  --wp-typography-brand-heading-3: 600 40px/54px "Blinker";
+}
