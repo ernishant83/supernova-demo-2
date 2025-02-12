@@ -2,10 +2,3 @@
 @import "./base/color.css";
 @import "./base/shadow.css";
 @import "./base/typography.css";
-
-
-/* Theme: Dark */
-@import "./dark/string.css";
-@import "./dark/color.css";
-@import "./dark/shadow.css";
-@import "./dark/typography.css";

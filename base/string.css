@@ -4,6 +4,6 @@
  */
 
 :root {
-  --wp-string-displaysmall-font: "Roboto";
-  --wp-string-string: "String value";
+  --string-displaysmall-font: "Roboto";
+  --string-string: "String value";
 }
