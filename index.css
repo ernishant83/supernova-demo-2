@@ -1,4 +1,6 @@
-@import "./base/string.css";
-@import "./base/color.css";
-@import "./base/shadow.css";
-@import "./base/typography.css";
+@import url(colors.css);
+@import url(measures.css);
+@import url(borders.css);
+@import url(gradients.css);
+@import url(shadows.css);
+@import url(typography.css);
