@@ -3,7 +3,7 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
+:host {
   --wp-string-displaysmall-font: "Roboto";
   --wp-string-string: "String value";
 }
