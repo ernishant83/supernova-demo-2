@@ -3,7 +3,7 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
+:host {
   --wp-shadow-shadow-regular-sm: 0px 3px 10px 0px #0000000d, 0px 4px 6px 0px #0000000d, 0px 4px 6px 0px #0000000d;
   --wp-shadow-shadow-regular-md: 0px 15px 30px 0px #0000001a, 0px 5px 10px 0px #0000000d, 0px 2px 4px 0px #0000000d;
   --wp-shadow-shadow-regular-lg: 0px 15px 30px 0px #0000001a, 0px 10px 20px 0px #0000000d, 0px 3px 6px 0px #0000000d;

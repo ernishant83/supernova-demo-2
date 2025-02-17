@@ -3,7 +3,7 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
+:host {
   --wp-color-mycolor: #721edf;
   --wp-color-color-2: #8c0f0f;
   --wp-color-color-3: #ef863b;

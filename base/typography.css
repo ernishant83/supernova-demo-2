@@ -3,7 +3,7 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
+:host {
   --wp-typography-heading-heading-1: 600 60px/72px "Source Sans 3";
   --wp-typography-heading-heading-2: 600 48px/60px "Source Sans 3";
   --wp-typography-heading-heading-3: 600 40px/54px "Source Sans 3";
