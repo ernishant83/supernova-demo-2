@@ -6,4 +6,15 @@
 :host {
   --wp-string-displaysmall-font: "Roboto";
   --wp-string-string: "String value";
+  --wp-string-font-family-display: "Blinker";
+  --wp-string-font-family-default: "Inter";
+  --wp-string-font-family-monospace: "Chivo Mono";
+  --wp-string-font-weight-regular: "Regular";
+  --wp-string-font-weight-regular-italic: "Regular italic";
+  --wp-string-font-weight-medium: "Medium";
+  --wp-string-font-weight-medium-italic: "Medium italic";
+  --wp-string-font-weight-semibold: "Semibold";
+  --wp-string-font-weight-semibold-italic: "Semibold italic";
+  --wp-string-font-weight-bold: "Bold";
+  --wp-string-font-weight-bold-italic: "Bold italic";
 }
