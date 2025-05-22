@@ -21,4 +21,5 @@
   --wp-shadow-shadow-subtle-themed-sm: 0px 4px 5px 0px #1b1b6f0d, 0px 1px 3px 0px #1b1b6f0d, 0px 0px 3px 0px #1b1b6f0d;
   --wp-shadow-shadow-subtle-themed-md: 0px 6px 8px 0px #1b1b6f12, 0px 0px 4px 0px #1b1b6f0d, 0px 1px 2px 0px #1b1b6f0d;
   --wp-shadow-shadow-subtle-themed-lg: 0px 8px 20px 0px #1b1b6f14, 0px 4px 6px 0px #1b1b6f0f, 0px 1px 0px 0px #1b1b6f0d;
+  --wp-shadow-focus-ring-primary: 0px 0px 0px 4px #1b1b6fcc, 0px 0px 0px 2px #ffffff;
 }
